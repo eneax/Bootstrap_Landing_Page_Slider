@@ -107,6 +107,4 @@ hr {
 }
 
 /* Older browser support */
-.no-cssanimations .slideshow li {
-	opacity: 1;
-}
+.no-cssanimations .slideshow li { opacity: 1; }
